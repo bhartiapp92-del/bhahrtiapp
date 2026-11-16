@@ -14,7 +14,7 @@
   -->
   <url>
     <loc>https://bhartiapp.placeholder/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -43,5 +43,22 @@
       <image:caption>Unlock premium recruiter visibility and enhanced application features</image:caption>
     </image:image>
   </url>
+  <url>
+    <loc>https://bhartiapp.placeholder/privacy.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://bhartiapp.placeholder/terms.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://bhartiapp.placeholder/refund.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
-
